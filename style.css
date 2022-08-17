@@ -1,0 +1,107 @@
+nav
+{
+    margin-right: 20px;
+}
+.logo
+{
+    display: flex;
+    flex: 1;
+}
+.head
+{
+    flex: 1;
+    text-align: right;
+    align-items: center;
+    
+}
+.list1
+{
+    display: inline-block;
+    margin-left: 20px;
+    text-align: right;
+}
+.a
+{
+    text-decoration: none;
+ color: black;
+ font-size: 14px;
+}
+a:hover
+{
+    color: red;
+}
+.gamepad
+{
+    margin-top: 100px;
+    margin-left: 100px;
+    display: inline-flex;
+}
+.button
+{
+    margin-left: 300px;
+    width: 50px;
+    height: 20px;
+   
+    background-color: #f03737;
+}
+button:hover{
+    cursor: pointer;
+
+}
+.buy
+{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    transform: translateX(-200px);
+    cursor: pointer;
+    margin-top: 250px;
+}
+.cart
+{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+
+}
+.details
+{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+}
+.details2
+{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+    font-size: 50px;
+}
+.section
+{
+    display: flex;    
+}
+.test
+{
+ width: 500px;
+ height: 500px;
+ transform: translateY(-450px);
+}
+.close
+{
+    margin-top: 100px;
+}
+.cart
+{
+    margin-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    margin-left: 187px; 
+
+}
+.cart_img
+{
+    width: 260px;
+    height: 200px;
+    margin-left: 110px;
+}
